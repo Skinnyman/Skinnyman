@@ -46,7 +46,7 @@ A vendor registration and login platform that redirects users based on registrat
 
 - Email: [fosusamuel123@gmail.com](mailto:fosusamuel123@gmail.com)  
 - GitHub: [skinnyman](https://github.com/skinnyman)  
-- LinkedIn: *(Add your profile link here)*
+- LinkedIn: [samuel](http://linkedin.com/in/samuel-fosu-bb6ba8240
 
 ---
 
