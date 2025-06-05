@@ -26,7 +26,7 @@ Git, GitHub, Postman, VS Code, TensorFlow.js
 ## 🚀 Featured Projects
 
 ### 🥗 [FoodFlock](https://github.com/skinnyman/FoodFlock)  
-A full-featured food ordering platform with vendor and customer dashboards, diet planner, AI-based recommendations, and mobile money payment.
+A full-featured food ordering platform with vendor and customer dashboards, diet planner, AI-based recommendations, and paystack API.
 
 ### 🧠 AI Diet Planner  
 Built with React.js and TensorFlow.js, this app recommends personalized meal plans based on user health goals and dietary needs.
