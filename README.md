@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ofosu Samuel
 
-I'm a passionate and self-driven **Web & Software Developer** with over 2 years of experience creating user-friendly, scalable, and secure applications. My work spans **web apps, mobile apps, and backend APIs**, and I enjoy using technology to solve real-world problems for individuals, businesses, and institutions.
+I'm a passionate and self-driven **Web & Software Developer** with over 1 and half years of experience creating user-friendly, scalable, and secure applications. My work spans **web apps, mobile apps, and backend APIs**, and I enjoy using technology to solve real-world problems for individuals, businesses, and institutions.
 
 ---
 
